@@ -32,11 +32,17 @@
         background-color: #fff;
         
     }
-
-
+    .view button{
+        background-color: #DD0000;
+        padding: 15px 35px;
+        border: 0;
+        color: #eee;
+        display: 
+        block;
+        margin: auto;
+        }
 
 }
-
 
 @media screen and (max-width: 576px) {
 
@@ -73,7 +79,5 @@
         display: block;
         margin-bottom: 10px;
     }
-
-
    
 }
